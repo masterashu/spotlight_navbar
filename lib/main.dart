@@ -27,10 +27,9 @@ class _HomePageState extends State<HomePage> {
           borderRadius: BorderRadius.circular(8),
           child: ShadowBottomNavigationBar(
             items: <IconData>[
-              Icons.access_alarm,
+              Icons.shopping_basket,
               Icons.favorite_border,
               Icons.search,
-              Icons.add_location,
             ],
             width: 200,
           ),
