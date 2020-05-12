@@ -8,4 +8,5 @@ Use it in your project easily by importing the [cool_nav](https://pub.dev/packag
 
 Try it out on [DartPad](https://dartpad.dev/cdca9ab15afed0a768906ec9ab4d71a0).
 
-![demo](demo.gif)
+[![demo](demo.gif)](https://masterashu.github.io/spotlight_navbar/)  
+> Click on the Image to View Live Deployment
